@@ -3,10 +3,21 @@ html(lang="en")
 	head
 		title Container Demo
 		link(rel='stylesheet', href='reset.css')
-		link(rel='stylesheet', href='container.css')
+		link(rel='stylesheet', href='container/container.css')
 		script(src='jquery.js')
-		script(src='vertical-text-align.js')
+		script(src='container/vertical-text-align.js')
 	body
+		.container.clearfix.sidebar
+			.vertical-container
+				h1.vertical News
+			
+			a.rounded(href='#')
+				.content-container
+					h2 @DukeChronicle
+					p
+						RT @fhi_duke: "Why Tell Stories?" Edwidge Danticat on power of testimony 
+						in face of catastrophe http://bit.ly/gu4K8h Thanks @DukeChronicle!
+		br
 		.container.clearfix.sidebar
 			.vertical-container
 				h1.vertical Something Longer
@@ -18,22 +29,11 @@ html(lang="en")
 						RT @fhi_duke: "Why Tell Stories?" Edwidge Danticat on power of testimony 
 						in face of catastrophe http://bit.ly/gu4K8h Thanks @DukeChronicle!	
 		
-		
-		.container.clearfix.sidebar
-			.vertical-container
-				h1.vertical News
-			
-			a.rounded(href='#')
-				.content-container
-					h2 @DukeChronicle
-					p
-						RT @fhi_duke: "Why Tell Stories?" Edwidge Danticat on power of testimony 
-						in face of catastrophe http://bit.ly/gu4K8h Thanks @DukeChronicle!
-		
+		br
 		.container.clearfix.sidebar
 			.vertical-container.discrete
 				h1.vertical Advertisement
 			
 			a.rounded(href='#')
 				.content-container
-					img(src='images/250x250.gif')
+					img(src='container/images/250x250.gif')

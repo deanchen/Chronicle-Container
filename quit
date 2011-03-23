@@ -1,0 +1,65 @@
+[33mcommit 3172aebf54604696f944550a70c2506eb850cb34[m
+Author: Dean Chen <dean@ocirs.com>
+Date:   Mon Mar 21 23:35:53 2011 -0400
+
+    Updated paths for css and javascript files.
+
+[33mcommit 6ecb58b5f2f9a07c1b713f7a5b7001ceb3667cc0[m
+Author: Dean Chen <dean@ocirs.com>
+Date:   Mon Mar 21 23:29:11 2011 -0400
+
+    Completed removed rotator code
+
+[33mcommit 82679f7cdf6190bd2411ef7bb70108fdaac033c4[m
+Author: Dean Chen <dean@ocirs.com>
+Date:   Mon Mar 21 23:28:39 2011 -0400
+
+    Removed Rotator code
+
+[33mcommit 6869fc4aa0fa8e7dca607fff29b5678b5c18de94[m
+Author: Dean Chen <dean@ocirs.com>
+Date:   Sun Mar 20 16:25:50 2011 -0400
+
+    Duplicated app for customized chronicle app.
+
+[33mcommit 689e86e6194b771327289ef4434d534d1834f28a[m
+Author: Dean Chen <dean@ocirs.com>
+Date:   Sun Mar 20 16:24:48 2011 -0400
+
+    Fully implemented stylus.
+
+[33mcommit 6c1cb1b0db76d863bf0331ecc31d2d220dcde595[m
+Author: Dean Chen <dean@ocirs.com>
+Date:   Sun Mar 20 14:09:05 2011 -0400
+
+    Finished .jade template
+
+[33mcommit c469f89b5ca05c46d9f2740e776f7196fe7da1ec[m
+Author: Dean Chen <dean@ocirs.com>
+Date:   Sun Mar 20 13:31:06 2011 -0400
+
+    Started porting reference impl. to app. Put them in their own folders.
+
+[33mcommit f3f02dcf313617585b010eae0d006190ae5e96f2[m
+Author: Dean Chen <dean@ocirs.com>
+Date:   Sun Mar 20 03:10:42 2011 -0400
+
+    Separated css in reference impl.
+
+[33mcommit 935cd3a94ce4b4aae76898fda33d10ed791eb6b8[m
+Author: Dean Chen <dean@ocirs.com>
+Date:   Sun Mar 20 03:08:18 2011 -0400
+
+    Established reference implementation for image rotator and placeholders for custom implementaiton.
+
+[33mcommit f8a44e72683a4a00a6393d00583f75371c7986e2[m
+Author: Dean Chen <dean@ocirs.com>
+Date:   Sun Mar 20 02:54:14 2011 -0400
+
+    Moved container files to containers folder.
+
+[33mcommit b60a61ec6594b02d0829dab66bb0774cc2bfbe13[m
+Author: Dean Chen <dean@ocirs.com>
+Date:   Sun Mar 20 02:33:58 2011 -0400
+
+    Initial commit. Working template.
